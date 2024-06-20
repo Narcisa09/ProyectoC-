@@ -1,0 +1,14 @@
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\bin\Debug\AccesoDatos.pdb
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
+C:\Users\vboxuser\source\repos\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Form2.resources
