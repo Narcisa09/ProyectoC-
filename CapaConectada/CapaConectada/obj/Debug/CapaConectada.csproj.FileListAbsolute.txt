@@ -1,0 +1,13 @@
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\bin\Debug\CapaConectada.exe.config
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\bin\Debug\CapaConectada.exe
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\bin\Debug\CapaConectada.pdb
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.Form1.resources
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.Properties.Resources.resources
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.csproj.GenerateResource.cache
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.exe
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaConectada.pdb
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\bin\Debug\DatosLayer.dll
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\bin\Debug\DatosLayer.pdb
+C:\Users\vboxuser\source\repos\CapaConectada\CapaConectada\obj\Debug\CapaCone.34236FBC.Up2Date

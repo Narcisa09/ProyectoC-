@@ -1,0 +1,6 @@
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\vboxuser\source\repos\CapaConectada\DatosLayer\obj\Debug\DatosLayer.pdb
